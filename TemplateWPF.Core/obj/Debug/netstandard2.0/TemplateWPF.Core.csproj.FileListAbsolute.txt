@@ -1,0 +1,9 @@
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.AssemblyInfoInputs.cache
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.AssemblyInfo.cs
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\bin\Debug\netstandard2.0\TemplateWPF.Core.deps.json
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\bin\Debug\netstandard2.0\TemplateWPF.Core.dll
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\bin\Debug\netstandard2.0\TemplateWPF.Core.pdb
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.csprojAssemblyReference.cache
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.dll
+C:\Users\Sonny\source\repos\TemplateWPF\TemplateWPF.Core\obj\Debug\netstandard2.0\TemplateWPF.Core.pdb
